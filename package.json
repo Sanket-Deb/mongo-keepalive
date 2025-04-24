@@ -1,0 +1,13 @@
+{
+  "name": "mongo-keepalive",
+  "version": "1.0.0",
+  "main": "ping-mongo.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ping-mongo.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
